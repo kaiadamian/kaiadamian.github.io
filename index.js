@@ -1,6 +1,6 @@
 email = "kdamian@nd.edu";
 url = "https://github.com/kaiadamian?tab=repositories"
-pdf = "../documents/Damian_Kaia_Resume.pdf"
+pdf = "/documents/Damian_Kaia_Resume.pdf"
 
 function showEmail () {
     alert(email);
