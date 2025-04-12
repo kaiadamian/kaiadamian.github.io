@@ -89,7 +89,7 @@
     color: #313250;
 }
 
-#main {
+.main-lg, .main-sm {
     font-family: "EB Garamond", serif;
     font-weight: 600;
     color: #313250;
@@ -100,10 +100,11 @@
     color: #313250;
 }
 
-#main span {
-    font-family: "EB Garamond", serif;
-    font-weight: 400;
-    color: #313250;
+.main-lg span {
     position: absolute;
+    right: 10px;
+}
+
+.main-sm span {
     right: 10px;
 }
